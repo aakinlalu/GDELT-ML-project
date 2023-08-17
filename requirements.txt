@@ -1,0 +1,8 @@
+pip install pycaret[analysis]
+pip install pycaret[models]
+pip install pycaret[tuner]
+pip install pycaret[mlops]
+pip install pycaret[parallel]
+pip install pycaret[test]
+fastapi
+uvicorn
