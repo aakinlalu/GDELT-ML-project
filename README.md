@@ -15,8 +15,9 @@ The GDELT Project is an initiative to construct a catalog of human societal-scal
 The data is available in the following link: https://www.gdeltproject.org/data.html#rawdatafiles.
 And the data dictionary is available in the following link: http://data.gdeltproject.org/documentation/GDELT-Event_Codebook-V2.0.pdf.
 
-
 ## Exploratory Data Analysis
+
+
 ## Machine Learning Applications
 <details>
 <summary markdown="span"><h2>Multi Classification</h2></summary>
