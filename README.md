@@ -1,5 +1,5 @@
 
-## Screenshots
+# GDelt Project
 
 ![App Screenshot](images/gdelt.png)
 
